@@ -1,0 +1,13 @@
+Advanced Tactics.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+UnitPromotionIcons/Advanced Tactics
+  rotate: false
+  xy: 1316, 301
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
