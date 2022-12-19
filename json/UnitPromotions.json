@@ -2,8 +2,8 @@
 
 [
   {
-     "name": "Mighty Warrior I",
+     "name": "Advance Tactics I",
      "prerequisites": ["Shock III","Drill III"],
-     "uniques": ["Heals [45] damage if it kills a unit", "[+50]% Strength <when defending>"]
+     "uniques": ["Heals [25] damage if it kills a unit", "[+25]% Strength <when defending>"]
   }
 ]
