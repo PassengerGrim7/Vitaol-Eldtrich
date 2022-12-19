@@ -1,0 +1,14 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+UnitPromotionIcons/Mighty Warrior I
+  rotate: false
+  xy: 1210, 1000
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
