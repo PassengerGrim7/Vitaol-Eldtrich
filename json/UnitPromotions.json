@@ -2,7 +2,7 @@
 
 [
   {
-     "name": "Advance Tactics I",
+     "name": "Advance Tactics",
      "prerequisites": ["Shock III","Drill III"],
      "uniques": ["Heals [25] damage if it kills a unit", "[+25]% Strength <when defending>"],
      "unitTypes": ["Warrior"]
